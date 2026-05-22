@@ -25,3 +25,36 @@
   </div>
 </div>
 <br clear="left">
+
+
+#  Getting Started
+
+###  Usage
+
+Run PowerStack-Zero as a Raspberry Pi Zero 2W UPS by connecting a battery and USB-C cable, then powering the Pi’s 5V/GND rail from the board.
+
+Typical routine:
+1. Charge the battery over USB-C.
+2. Power runs from either the battery or external input.
+3. INA219 monitors current and voltage.
+4. The Pi can shut down safely with the MOSFET switch.
+5. DS3231 keeps time and can handle wake-ups.
+
+
+###  Testing
+
+Run the test suite using the following command:
+
+```sh
+python3 -m pytest
+```
+
+Or, if you want to test hardware:
+- Verify charging works.
+- Check battery protection.
+- Test 5V boost stability.
+- Confirm INA219 readings.
+- Make sure safe shutdown and RTC wake are reliable.
+
+---
+
