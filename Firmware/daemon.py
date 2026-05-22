@@ -14,7 +14,7 @@ try:
 except Exception:
     GPIO = None
 
-CONFIG_PATH = Path(__file__).with_name("powerstack_config.json")
+CONFIG_PATH = Path(__file__).with_name("config.json")
 
 DEFAULT_CONFIG = {
     "gpio": {

@@ -4,8 +4,8 @@ After=multi-user.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/python3 /firmware/powerstack-zero/daemon.py
-WorkingDirectory=/firmware/powerstack-zero
+ExecStart=/usr/bin/python3 /firmware/daemon.py
+WorkingDirectory=/firmware
 Restart=always
 RestartSec=3
 
