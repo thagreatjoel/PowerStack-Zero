@@ -1,5 +1,5 @@
 <div align="left" style="position: relative;">
-  <img src="./images/logo.png" align="left" width="300" style="margin: 0 20px 0 0;">
+  <img src="./images/logo.png" align="left" width="338" style="margin: 0 20px 0 0;">
   <div>
     <img src="./images/title1.png" alt="POWERSTACK ZERO" width="430" height="50">
     <p align="left">
