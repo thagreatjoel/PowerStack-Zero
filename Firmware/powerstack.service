@@ -1,0 +1,13 @@
+[Unit]
+Description=PowerStack Zero UPS Daemon
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /firmware/powerstack-zero/daemon.py
+WorkingDirectory=/firmware/powerstack-zero
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

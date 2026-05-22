@@ -1,0 +1,17 @@
+{
+  "gpio": {
+    "power_hold": 27,
+    "shutdown_detect": 17
+  },
+  "i2c": {
+    "bus": 1,
+    "ina219_addr": 64,
+    "ds3231_addr": 104
+  },
+  "thresholds": {
+    "low_battery_voltage": 3.4,
+    "shutdown_voltage": 3.3,
+    "poll_interval_s": 2,
+    "confirm_low_count": 3
+  }
+}
