@@ -1,4 +1,4 @@
-from Firmware.daemon import PowerStack, DEFAULT_CONFIG, FakeGPIO
+from daemon import PowerStack, DEFAULT_CONFIG, FakeGPIO
 
 class Dummy:
     def __init__(self, v=None, req=False):
@@ -7,8 +7,10 @@ class Dummy:
         self.cfg = DEFAULT_CONFIG
         self.gpio = FakeGPIO
         self.low_count = 0
+
     def read_shutdown_request(self):
         return self.req
+
     def read_ina219_bus_voltage(self):
         return self.v
 
