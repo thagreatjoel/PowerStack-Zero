@@ -1,7 +1,7 @@
 <div align="left" style="position: relative;">
   <img src="./images/logo.png" align="left" width="300" style="margin: 0 20px 0 0;">
   <div>
-    <img src="./images/title.png" alt="POWERSTACK ZERO" width="430" height="50">
+    <img src="./images/title1.png" alt="POWERSTACK ZERO" width="430" height="50">
     <p align="left">
       <em><code>❯ Raspberry Pi Zero 2W Smart UPS and Expansion Board</code></em>
     </p>
