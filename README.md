@@ -13,6 +13,10 @@
       <a href="https://easyeda.com/" style="margin-right: 15px; display: inline-block;">
         <img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=circuitboard&logoColor=white" style="border-radius: 30px;" alt="easyeda">
       </a>
+        </a>
+  <a href="https://www.raspberrypi.com/" style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-Zero%202W-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" style="border-radius: 30px;" alt="raspberry-pi">
+  </a>
     </div>
     <br>
   <p align="left">
