@@ -57,3 +57,14 @@ To start the daemon, run:
 
 You’ll see the daemon fire up, set up GPIO, and go into its main loop. If you want to stop it safely, just hit Ctrl+C–that’ll kick off the cleanup process.
 Watch for the loop to start and make sure GPIO initializes. When you exit, the cleanup should trigger properly. For hardware, check that charging works, battery protection engages, 5V boost stays stable, INA219 readings show up, and the daemon handles safe shutdowns.
+
+##  Project Structure
+
+```sh
+└── PowerStack-Zero/
+    ├── Firmware
+        ├──  daemon.py
+        ├──  
+    ├── LICENSE
+    └── README.md
+```
