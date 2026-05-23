@@ -100,15 +100,20 @@ class PowerStack:
         self.gpio.output(self.cfg["gpio"]["power_hold"], self.gpio.LOW)
 
     def run(self):
+        print("starting daemon")
         self.setup_gpio()
+        print("gpio set up")
         try:
             while not self.stop:
+                print("loop running")
                 if self.should_shutdown():
+                    print("shutdown requested")
                     self.shutdown()
                     break
                 time.sleep(self.cfg["thresholds"]["poll_interval_s"])
         finally:
             self.gpio.cleanup()
+            print("cleanup done")
 
 def load_config():
     if CONFIG_PATH.exists():
