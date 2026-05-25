@@ -27,6 +27,8 @@
 </div>
 <br clear="left">
 
+## Why i made this?
+Most of the time i gets power cuts, my pi zero 2w is a persnal NAS for my home.. Sudden powercuts can affect the pi NAS so i had this idea to mkae a project for raspbery pi zero 2w
 
 #  Getting Started
 
