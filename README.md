@@ -81,6 +81,7 @@ Watch for the loop to start and make sure GPIO initializes. When you exit, the c
 <div align="center"><img width="400" alt="Screenshot 2026-05-25 114533" src="https://github.com/user-attachments/assets/cc164947-622b-4c16-b0bf-31f212da57b7" /> <img width="402" alt="Screenshot 2026-05-25 114553" src="https://github.com/user-attachments/assets/039f7b22-fc7d-4370-8e5f-2f2daf245c32" />
 </div>
 
+<img align="center" width="935" height="450" alt="image" src="https://github.com/user-attachments/assets/43836fbb-9335-425f-ae8a-e0cbd2425a74" />
 
 
 
