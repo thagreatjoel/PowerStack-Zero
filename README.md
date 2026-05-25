@@ -27,12 +27,12 @@
 </div>
 <br clear="left">
 
-## Why i made this?
+<h1> Why i made this?</h1>
 Most of the time i gets power cuts, my pi zero 2w is a persnal NAS for my home.. Sudden powercuts can affect the pi NAS so i had this idea to mkae a project for raspbery pi zero 2w
 
-#  Getting Started
 
-##  Usage
+
+#  Getting Started
 
 Run PowerStack-Zero as a Raspberry Pi Zero 2W UPS by connecting a battery and USB-C cable, then powering the Pi’s 5V/GND rail from the board.
 
