@@ -1,5 +1,6 @@
+
 <div align="left" style="position: relative;">
-  <img src="./images/logo.png" align="left" width="357" style="margin: 0 20px 0 0;">
+  <img src="https://github.com/user-attachments/assets/59ad20dd-9f9b-4056-bc5f-69c52da3f1b7" align="left" width="357" style="margin: 0 20px 0 0;">
 
   <div>
     <img src="./images/title1.png" alt="POWERSTACK ZERO" width="430" height="50">
