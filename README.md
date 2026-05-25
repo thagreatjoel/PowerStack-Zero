@@ -77,8 +77,8 @@ Watch for the loop to start and make sure GPIO initializes. When you exit, the c
 
 
 
-<h1>Layers</h1>
-<img width="350" alt="Screenshot 2026-05-25 114533" src="https://github.com/user-attachments/assets/cc164947-622b-4c16-b0bf-31f212da57b7" /> <img width="352" alt="Screenshot 2026-05-25 114553" src="https://github.com/user-attachments/assets/039f7b22-fc7d-4370-8e5f-2f2daf245c32" />
+<h1 align="center">Layers</h1>
+<img align="center" width="350" alt="Screenshot 2026-05-25 114533" src="https://github.com/user-attachments/assets/cc164947-622b-4c16-b0bf-31f212da57b7" /> <img width="352" alt="Screenshot 2026-05-25 114553" src="https://github.com/user-attachments/assets/039f7b22-fc7d-4370-8e5f-2f2daf245c32" />
 
 
 
