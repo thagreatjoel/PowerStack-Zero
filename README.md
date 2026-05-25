@@ -85,7 +85,7 @@ Watch for the loop to start and make sure GPIO initializes. When you exit, the c
 
 <p align="center"><img width="935" alt="image" src="https://github.com/user-attachments/assets/43836fbb-9335-425f-ae8a-e0cbd2425a74" /> </p>
 
-
-
+# 3d model
+[3d model to step file](https://cdn.hackclub.com/019e5e3a-9d68-782b-bfc8-2a2c7ecddfdc/3dmodel.step)
 <h1 align="center">Zine Page</h1>
 <p align="center"><img width="500"" alt="Power Zine" src="https://github.com/user-attachments/assets/deea1ebb-6358-4765-b8e6-a19bc9d2a664" /></p>
