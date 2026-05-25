@@ -84,5 +84,5 @@ Watch for the loop to start and make sure GPIO initializes. When you exit, the c
 
 
 
-<h1>Zine Page</h1>
+<h1 align="center">Zine Page</h1>
 <p align="center"><img width="500"" alt="Power Zine" src="https://github.com/user-attachments/assets/deea1ebb-6358-4765-b8e6-a19bc9d2a664" /></p>
